@@ -1,0 +1,41 @@
+<?php
+$title = 'Our Process';
+include("includes/tpl_header.php"); ?>
+
+<!-- Main Container
+================================================== -->
+<div class="site_container container process">
+	<div class="add-bottom">
+        <div class="slogan columns sixteen">
+            <h1><?php echo $title ?></h1>
+        </div>
+        <div class="clear"><!-- ClearFix --></div>
+        <div class="columns nine">
+            <p>We believe that building the relationship between client and builder during the project is as important as the build project itself. Chapman Built will always have a single point of contact for each project so that you know who to call to discuss any part of the job. Regular and effective communication between the builder and the client is central to our process, whether the job be a small renovation, or a complex home extension.</p>
+            <p>All projects exhibit the same basic process; Plan, Design, Build. Some projects are simple and can be performed within a short time with minimal design. Some projects are more complex and time consuming and involve detailed drawings, architectural and structural design, planning approval and certification.</p>
+            <hr />
+            <h2>Planning and Design</h2>
+            <p>Planning for a home alteration or renovation project can be a daunting task in itself. We believe that the planning phase is a very important step in the overall process and involving a builder during the planning stage will help you achieve a more cost effective and buildable design. If you have started thinking about of changing your home, we recommend you call us for a no obligation discussion about what it is you are hoping to achieve. We can provide budget estimates to help you understand the cost implications of different ideas.</p>
+            <p>Some projects, such as extension work, will require architectural and engineering drawings to be created. Perhaps you would like help in choosing the right colour and textures for your new kitchen. We can advise of various design consultants who could help refine those ideas and provide detail drawings if required.</p>
+            <hr />
+            <h2>Development Approval (DA)</h2>
+            <p>Extension projects will generally require a Development Application (DA) and also Building Approval (BA). We recommend you contact a Builder Certifier and provide your extension project drawings to discuss the requirements of the Development Application. The DA process can take a number of weeks, depending on the design. See the <a href="www.actpla.act.gov.au/topics/design_build" rel="external">ACPLTA website</a> for more information. The Building Certifier acts on behalf of the owner by inspecting the project at various stages to ensure that the builder performs the works in accordance with the relevant codes and standards.</p>
+            <p>Once you are happy with your extension or renovation design, we can then provide an accurate quotation. If you’re happy with the quotation, and your DA is approved, you’re ready to build! A contract can then be drawn up and relevant forms signed with your certifier and government fees paid to allow the construction process to begin.</p>
+            <hr />
+            <h2>Build</h2>
+            <p>Chapman Built understands that a renovation or alteration project may mean changes to your home environment. That is why we endeavour to minimise the impact to you and your family by discussing the project schedule with you. We always aim to minimise the construction period so as to reduce the disruption to your home.  During the project we would regularly discuss with you the upcoming stages, how they may affect you, any unforseen items or changes you may require, and obtain your preference for various details of the build. We understand that some project may pose challenges such as restricted access to the site, or you may wish to stay in your home during the course of the build. We wish for you to be a part of the projects and strive for you to enjoy your Chapman Built experience.</p>
+
+        </div>
+
+        <div class="columns six offset-by-one">
+            <img src="images/services/kitchens-1-1.jpg" alt="Dining table in open plan living area with adjacent white lamenate kitchen." class="bordered1 scale-with-grid" />
+            <img src="images/services/landscaping-1-1.jpg" alt="Front path leading to large, red, modern front door." class="bordered1 scale-with-grid" />
+            <img src="images/services/kitchens-1-3.jpg" alt="Kitchen with dark stone topped island bench." class="bordered1 scale-with-grid" />
+        </div>
+	    <div class="clear"><!-- ClearFix --></div>
+	</div>
+</div>
+
+<!-- Footer
+================================================== -->
+<?php include("includes/tpl_footer.php"); ?>
