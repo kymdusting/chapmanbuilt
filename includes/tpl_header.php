@@ -48,7 +48,7 @@
     <script type="text/javascript" src="js/jquery.elastislide.js"></script>
     <script type='text/javascript' src='js/camera.min.js'></script>
 	<script type='text/javascript' src='js/jquery.prettyPhoto.js'></script>
-    <script type='text/javascript' src='js/kickstart.js'></script>
+    <!--<script type='text/javascript' src='js/kickstart.js'></script>-->
     <script type='text/javascript' src='js/prettify.js'></script>
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
