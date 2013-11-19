@@ -19,7 +19,7 @@ include("includes/tpl_header.php"); ?>
             <p>Some projects, such as extension work, will require architectural and engineering drawings to be created. Perhaps you would like help in choosing the right colour and textures for your new kitchen. We can advise of various design consultants who could help refine those ideas and provide detail drawings if required.</p>
             <hr />
             <h2>Development Approval (DA)</h2>
-            <p>Extension projects will generally require a Development Application (DA) and also Building Approval (BA). We recommend you contact a Builder Certifier and provide your extension project drawings to discuss the requirements of the Development Application. The DA process can take a number of weeks, depending on the design. See the <a href="www.actpla.act.gov.au/topics/design_build" rel="external">ACPLTA website</a> for more information. The Building Certifier acts on behalf of the owner by inspecting the project at various stages to ensure that the builder performs the works in accordance with the relevant codes and standards.</p>
+            <p>Extension projects and projects requiring structural changes will generally require a Development Application (DA) and also Building Approval (BA). We recommend you contact a Builder Certifier and provide your extension project drawings to discuss the requirements of the Development Application. The DA process can take a number of weeks, depending on the design. See the <a href="www.actpla.act.gov.au/topics/design_build" rel="external">ACPLTA website</a> for more information. The Building Certifier acts on behalf of the owner by inspecting the project at various stages to ensure that the builder performs the works in accordance with the relevant codes and standards.</p>
             <p>Once you are happy with your extension or renovation design, we can then provide an accurate quotation. If you’re happy with the quotation, and your DA is approved, you’re ready to build! A contract can then be drawn up and relevant forms signed with your certifier and government fees paid to allow the construction process to begin.</p>
             <hr />
             <h2>Build</h2>
@@ -28,6 +28,8 @@ include("includes/tpl_header.php"); ?>
         </div>
 
         <div class="columns six offset-by-one">
+            <img src="images/services/interior-1-1.jpg" alt="Hallway looking into kitchen and front of house entrance." class="bordered1 scale-with-grid" />
+            <img src="images/services/kitchens-1-4.jpg" alt="Island bench with twin, round sinks looking across to prestine new kitchen." class="bordered1 scale-with-grid" />
             <img src="images/services/kitchens-1-1.jpg" alt="Dining table in open plan living area with adjacent white lamenate kitchen." class="bordered1 scale-with-grid" />
             <img src="images/services/landscaping-1-1.jpg" alt="Front path leading to large, red, modern front door." class="bordered1 scale-with-grid" />
             <img src="images/services/kitchens-1-3.jpg" alt="Kitchen with dark stone topped island bench." class="bordered1 scale-with-grid" />

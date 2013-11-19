@@ -100,6 +100,9 @@
                         echo " class='act'"; ?>>
                     <a href="our-work.php">Our Work</a>
                     <ul class="sub_menu level1">
+                        <li><a href="griffith-1.php">Griffith &ndash; Meehan Gardens</a></li>
+                        <li><a href="hackett-1.php">Hackett &ndash; Grayson Street</a></li>
+                        <li><a href="dickson-1.php">Dickson &ndash; Hawdon Street </a></li>
                         <li><a href="campbell-1.php">Campbell &ndash; Patey Street</a></li>
                         <li><a href="ainslie.php">Ainslie &ndash; Ebden Street</a></li>
                         <li><a href="isaacs.php">Isaacs &ndash; Broinowski Place</a></li>

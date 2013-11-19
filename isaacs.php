@@ -40,7 +40,8 @@ include("includes/tpl_header.php"); ?>
             </div>
             <div class="content">
                	<h2>Kitchen and dining rejuvenation</h2>
-                <p>Chapman Built carried out an extension to this family home to create a dramatic new kitchen and dining space. The kitchen features 30mm stone benchtops with a large island bench acting as a family hub. Abundant efficient storage space is provided from the overhead cupboard and underbench drawers. Multiple food preparation areas are possible with the use of separate sinks, with double ovens and induction cooking options. The splashback uses a combination of manufactured stone and glass. The energy efficiency of the space was maximised with all new windows using double glazing and additional wall and ceiling insulation installed.</p>
+                <p>This is the second extension project that Chapman Built has carried out for this client. This extension project  created a dramatic new kitchen and dining space to this family home. The kitchen features 30mm stone benchtops with a large island bench acting as a family hub. Abundant efficient storage space is provided from the overhead cupboard and underbench drawers. Multiple food preparation areas are possible with the use of separate sinks, with double ovens and induction cooking options. The splashback uses a combination of manufactured stone and glass. The energy efficiency of the space was maximised with all new windows using double glazing and additional wall and ceiling insulation installed.</p>
+                <p class="award">This project was judged as finalist of the 2013 HIA-CSR ACT/Southern NSW Housing Awards, Best Renovation/Addition Project up to $200,000</p>
             </div>
 		</div>
 

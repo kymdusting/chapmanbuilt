@@ -14,6 +14,22 @@ include("includes/tpl_header.php"); ?>
     </div>
 	<div class="clear"><!-- ClearFix --></div>
 	<ul class="image-grid columns3" id="list">
+        <li data-id="id-1" class="cat1 cat2 cat4 columns five award">
+            <a href="griffith-1.php"><img src="images/our-work/griffith-1-1-400.jpg" alt="Renovated red brick home with landscaped outdoor areas" class="scale-with-grid" /></a><br />
+            <img src="images/our-work/award.png" alt="HIA Award Winner" class="scale-with-grid award" />
+            <a href="griffith-1.php">Griffith &ndash; Meehan Gardens</a>
+            <p>Classic Canberra-Red extension</p>
+        </li>
+        <li data-id="id-1" class="cat2 cat3 cat4 columns five">
+            <a href="hackett-1.php"><img src="images/our-work/hackett-1-1-400.jpg" alt="Kitchen area with great contrasting black doorways on white decor." class="scale-with-grid" /></a><br />
+            <a href="hacket-1.php">Hackett &ndash; Grayson Street</a>
+            <p>Townhouse complete renovation</p>
+        </li>
+        <li data-id="id-1" class="cat2 cat3 cat4 columns five">
+            <a href="dickson-1.php"><img src="images/our-work/dickson-1-1-400.jpg" alt="Indoor / outdoor entertaining area with island bench and wooden stools" class="scale-with-grid" /></a><br />
+            <a href="dickson-1.php">Dickson &ndash; Hawdon Street </a>
+            <p>Duplex designer transformation</p>
+        </li>
 		<li data-id="id-1" class="cat1 cat2 cat4 columns five award">
             <a href="campbell-1.php"><img src="images/our-work/campbell-1-1-400.jpg" alt="Indoor / outdoor entertaining area with island bench and wooden stools" class="scale-with-grid" /></a><br />
             <img src="images/our-work/award.png" alt="HIA Award Winner" class="scale-with-grid award" />
@@ -25,8 +41,9 @@ include("includes/tpl_header.php"); ?>
 			<a href="ainslie.php">Ainslie &ndash; Ebden Street</a>
 			<p>Eco–extension to heritage house</p>
         </li>
-        <li data-id="id-8" class="cat1 cat2 cat4 columns five">
+        <li data-id="id-8" class="cat1 cat2 cat4 columns five award">
             <a href="isaacs.php"><img src="images/our-work/isaacs-1-1-400.jpg" alt="Spacious kitchen with island bench." class="scale-with-grid" /></a><br />
+            <img src="images/our-work/award.png" alt="HIA Award Winner" class="scale-with-grid award" />
             <a href="isaacs.php">Isaacs &ndash; Broinowski Place</a>
             <p>Kitchen and dining rejuvenation</p>
         </li>

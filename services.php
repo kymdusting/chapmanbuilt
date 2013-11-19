@@ -19,12 +19,12 @@ include("includes/tpl_header.php"); ?>
         <div class="columns nine">
             <h2>Extensions</h2>
             <p>Chapman Built specialises in the extension and renovation of existing homes in the Canberra region. We use the highest quality materials and trades, and the finest craftsmanship. Whether your home is brick veneer or double brick, ground level or second storey, timber floor or slab-on-ground – we do it all. Chapman Built can help you with all facets of the process, including architectural and structural design, costing and estimating, development and building approval, construction, and the certification process.</p>
-            <p>We carry out all building work in accordance with the Building Code of Australia (BCA) and all work is guaranteed.</p>
+            <p>We carry out all building work in accordance with the National Construction Code of Australia (NCC) and all work is guaranteed.</p>
             <hr />
         </div>
 
         <div class="columns six offset-by-one">
-            <img src="images/services/extensions-1-1.jpg" alt="House extension and deck." class="bordered1 scale-with-grid" />
+            <img src="images/services/extensions-1-1.jpg" alt="House extension and outdoor entertaining area." class="bordered1 scale-with-grid" />
         </div>
         <div class="clear"><!-- ClearFix --></div>
 

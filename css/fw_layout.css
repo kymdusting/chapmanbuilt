@@ -330,8 +330,10 @@ li.award {
 }
 img.award {
 	position: absolute;
-	left: 4px;
+	left: -2px;
 	bottom: 4px;
+	height: 87px;
+	width: 80px;
 }
 p.award {
 	font-weight: bold;
@@ -352,4 +354,11 @@ p.award {
 	position:absolute;
 	top:0;
 	left:-9999px;
+}
+
+.home blockquote {
+	font-size: 100%;
+	border: none;
+	padding-left: 0;
+	margin: 0;
 }

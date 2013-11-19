@@ -8,7 +8,7 @@ include("includes/tpl_header.php"); ?>
 
 <!-- Main Container
 ================================================== -->
-<div class="site_container container">
+<div class="site_container container home">
 	<div class="slogan columns sixteen">
         <span class="tag-line">
             <hr />
@@ -21,7 +21,7 @@ include("includes/tpl_header.php"); ?>
 
     <div class="columns four">
     	<h3>Latest Projects</h3>
-        <a href="our-work.php"><img src="images/our-work/campbell-1-2-400.jpg" alt="White island bench in kitchen." class="bordered1 scale-with-grid" /></a>
+        <a href="our-work.php"><img src="images/our-work/griffith-1-1-400.jpg" alt="Renovated red brick home with landscaped outdoor areas." class="bordered1 scale-with-grid" /></a>
         <p>From a heritage home extension, to renovated kitchens and bathrooms, view our latest work from around the Canberra area.</p>
         <a href="our-work.php" class="btn_readmore arrow_right">View our latest projects<span aria-hidden="true" class="ico_arrow">&gt;</span></a>
         <div class="clear"><!-- ClearFix --></div>
@@ -36,7 +36,7 @@ include("includes/tpl_header.php"); ?>
     <div class="columns four">
     	<h3>Testimonials</h3>
         <a href="testimonials.php"><img src="images/our-work/campbell-2-3-400.jpg" alt="Galley style kitchen with wooden facade." class="bordered1 scale-with-grid" /></a>
-        <p>"We would not hesitate to recommend Chapman Built to future clients."<br /><br />Anna and David — Downer ACT</p>
+        <blockquote>"We are delighted with the design quality and pleasant friendly service we received during the whole process."</blockquote><p>Annie and Sky — Isaacs ACT</p>
         <a href="testimonials.php" class="btn_readmore arrow_right">More form our clients<span aria-hidden="true" class="ico_arrow">&gt;</span></a>
         <div class="clear"><!-- ClearFix --></div>
 	</div>

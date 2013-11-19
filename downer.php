@@ -40,7 +40,8 @@ include("includes/tpl_header.php"); ?>
             </div>
             <div class="content">
                	<h2>Bathroom and laundry transformation</h2>
-                <p>The existing bathroom and laundry rooms were each transformed into modern and attractive rooms with the addition of custom made joinery with manufactured stone benchtops. The main bathroom was combined with the WC and a new window installed above the new bath. The rooms were professionally designed with stylish tile and accessory selections chosen to compliment each space.</p>
+                <p>The existing bathroom and laundry rooms were each transformed into modern and attractive rooms with the addition of custom made joinery with manufactured stone benchtops. The main bathroom was combined with the WC and a new window installed above the new bath. The rooms were professionally designed with stylish tile and accessory selections chosen to complement each space.</p>
+                <p>The client requested the services of Chapman Built for a second renovation that involved the removal of internal walls and the installation of professionally designed and custom made joinery to the kitchen. Features included vinyl wrapped soft-closing doors and drawers and 40mm stone to the island bench.</p>
             </div>
 		</div>
 
