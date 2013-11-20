@@ -92,40 +92,21 @@ header {
 	background: transparent url(../images/bg-header.png) repeat-y 100% 0;
 }
 .tag-line {
-	padding: .6em 0;
+	padding: .3em 0 .8em;
 }
 .tag-line hr {
 	border-top: 2px solid #d71d28;
 	margin: 0 0 -15px;
 	padding: 0;
-	width:264px;
-}
-.ie8 .tag-line hr {
-	text-align: left;
-}
-.ie9 .tag-line hr {
-	text-align: left;
-	width:258px;
-}
-.tag-line hr.hr-right {
-	float: right;
-	width: 286px;
-	margin: 6px 317px 0 0;
-}
-.ie8 .tag-line hr.hr-right {
-	width: 292px;
-	margin: 6px 310px 0 0;
-}
-.ie9 .tag-line hr.hr-right {
-	width: 283px;
-	margin: 6px 327px 0 0;
+	width:100%;
 }
 .tag-line p {
 	font-size: 120%;
 	/*font-family: 'Armata', Arial, sans-serif;*/
 	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	color: #195588;
-	margin-bottom: 8px;
+	margin-bottom: 15px;
+	text-align: center;
 }
 .mainmenu li.act a {
 	color: #195588 !important;
