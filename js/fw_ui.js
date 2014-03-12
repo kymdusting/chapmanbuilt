@@ -44,7 +44,7 @@ $(document).ready(function(){
 	$('img.bordered1').each(function(){
 		curr_w = $(this).width();
 		curr_h = $(this).height();
-		$(this).css({'width' : (curr_w-6)+'px', 'height' : (curr_h-6)+'px'});
+		// $(this).css({'width' : (curr_w-6)+'px', 'height' : (curr_h-6)+'px'});
 	});
 	$('img.bordered1').hover(function(){
 		$(this).stop().animate({'border-color' : '#d71d28'});
