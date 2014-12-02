@@ -1,12 +1,12 @@
 <?php
-$title = 'Our Work | Curtin – Macalister Street';
+$title = 'Our Work | Mawson - Shackleton Crescent';
 include("includes/tpl_header.php"); ?>
 
 <!-- Main Container
 ================================================== -->
 <div class="site_container container our-work">
 	<div class="slogan columns sixteen">
-		<h1>Our Work - Curtin – Macalister Street</h1>
+		<h1>Our Work - Mawson - Shackleton Crescent</h1>
 	</div>
 	<div class="clear"><!-- ClearFix --></div>
 
@@ -21,20 +21,23 @@ include("includes/tpl_header.php"); ?>
 		</div> -->
 		<!-- EOS; ~#start content -->
        	<div class="columns sixteen">
-			<a href="images/our-work/curtin-1-1.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/curtin-1-1-main.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+			<a href="images/our-work/mawson-1-1.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/mawson-1-1-main.jpg" alt="" class="bordered1 scale-with-grid" /></a>
             <div class="gallery-thumbs">
                 <ul>
                     <li>
-                        <a href="images/our-work/curtin-1-2.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/curtin-1-2-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                        <a href="images/our-work/mawson-1-2.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/mawson-1-2-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                     <li>
-                        <a href="images/our-work/curtin-1-3.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/curtin-1-3-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                        <a href="images/our-work/mawson-1-3.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/mawson-1-3-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                    </li>
+                    <li>
+                        <a href="images/our-work/mawson-1-4.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/mawson-1-4-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                 </ul>
             </div>
             <div class="content">
-               	<h2>Bathroom renovation and deck</h2>
-                <p>This project involved a complete bathroom renovation with relocation of internal walls to create a more open and spacious layout. The front entry was also upgraded to include new entry stair to a deck with ‘waterfall’ effect, and new timber pergola.</p>
+               	<h2>Designer bathroom transformation</h2>
+                <p>The bathroom, powder room and ensuite of this full-brick family home in Mawson were completely overhauled to create contemporary spaces with minimalist style. The main bathroom features matching floor and wall tiles that show off the free-standing bath located in ‘wet-room’ of the shower. The ensuite features a contrasting tile selection with an enclosed shower. Showers both use frameless shower screens and all rooms boast wall-mounted vanities and undertile heating for that touch of luxury.</p>
             </div>
 		</div>
 

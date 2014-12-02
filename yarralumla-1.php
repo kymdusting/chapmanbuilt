@@ -1,12 +1,12 @@
 <?php
-$title = 'Our Work | Curtin – Macalister Street';
+$title = 'Our Work | Yarralumla - Brown Street';
 include("includes/tpl_header.php"); ?>
 
 <!-- Main Container
 ================================================== -->
 <div class="site_container container our-work">
 	<div class="slogan columns sixteen">
-		<h1>Our Work - Curtin – Macalister Street</h1>
+		<h1>Our Work - Yarralumla - Brown Street</h1>
 	</div>
 	<div class="clear"><!-- ClearFix --></div>
 
@@ -21,20 +21,23 @@ include("includes/tpl_header.php"); ?>
 		</div> -->
 		<!-- EOS; ~#start content -->
        	<div class="columns sixteen">
-			<a href="images/our-work/curtin-1-1.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/curtin-1-1-main.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+			<a href="images/our-work/yarralumla-1-1.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/yarralumla-1-1-main.jpg" alt="" class="bordered1 scale-with-grid" /></a>
             <div class="gallery-thumbs">
                 <ul>
                     <li>
-                        <a href="images/our-work/curtin-1-2.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/curtin-1-2-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                        <a href="images/our-work/yarralumla-1-2.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/yarralumla-1-2-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                     <li>
-                        <a href="images/our-work/curtin-1-3.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/curtin-1-3-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                        <a href="images/our-work/yarralumla-1-3.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/yarralumla-1-3-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                    </li>
+                    <li>
+                        <a href="images/our-work/yarralumla-1-4.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/yarralumla-1-4-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                 </ul>
             </div>
             <div class="content">
-               	<h2>Bathroom renovation and deck</h2>
-                <p>This project involved a complete bathroom renovation with relocation of internal walls to create a more open and spacious layout. The front entry was also upgraded to include new entry stair to a deck with ‘waterfall’ effect, and new timber pergola.</p>
+               	<h2>Double ensuite makeover</h2>
+                <p>Chapman Built completely renovated two upstair ensuites in this large family home in Yarralumla. Floor to ceiling tiles with contrasting textured patterns are a feature of the main ensuite, which also boasts a double shower and custom made vanity unit with stone bench and under-slung sinks. The second ensuite has been finished in a modern minimalist theme with a feature tile contrasting with the contemporary wall-mount vanity. Under-tile heating features in both rooms.</p>
             </div>
 		</div>
 

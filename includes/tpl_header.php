@@ -114,6 +114,10 @@
                         <li><a href="campbell-3.php">Campbell &ndash; Ryrie Street</a></li>
                         <li><a href="majura-park.php">Majura Park &ndash; Shop Fitout</a></li>
                         <li><a href="curtin.php">Curtin &ndash; Macalister Street</a></li>
+                        <li><a href="curtin-2.php">Curtin &ndash; Holman Street</a></li>
+                        <li><a href="garran-1.php">Garran &ndash; Gilmore Crescent</a></li>
+                        <li><a href="mawson-1.php">Mawson &ndash; Shackleton Crescent</a></li>
+                        <li><a href="yarralumla-1.php">Yarralumla &ndash; Brown Street</a></li>
                     </ul>
                 </li>
                 <li class="sep"></li>

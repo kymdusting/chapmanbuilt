@@ -41,6 +41,7 @@ include("includes/tpl_header.php"); ?>
             <div class="content">
                	<h2>Duplex designer transformation</h2>
                 <p>This Canberra duplex was completely renovated throughout the ground floor to transform the home into a modern and chic space. Structural steelwork was installed to completely open up the Kitchen, Dining and Living areas which created a bright and airy feel. The new kitchen was relocated to provide direct access to the new merbau timber deck at the rear. New custom made joinery was installed to the Kitchen, Living, new Study and Laundry to maximise storage and functionality. The kitchen features soft closing drawers and doors, double drawer dish washer and a central island bench with waterfall ends. All ground floor windows were replaced with energy efficient double glazed timber framed windows. The update included new lighting and bamboo flooring to the living areas. The façade of the home was given a modern update with the addition of a timber pergola, paving and a funky new opening to the porch wall.</p>
+                <p class="award">This project was judged as finalist of the 2014 HIA-CSR ACT/Southern NSW Housing Awards, Best Renovation/Addition Project up to $200,000.</p>
             </div>
 		</div>
 

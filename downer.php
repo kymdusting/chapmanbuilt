@@ -21,25 +21,25 @@ include("includes/tpl_header.php"); ?>
 		</div> -->
 		<!-- EOS; ~#start content -->
        	<div class="columns sixteen">
-			<a href="images/our-work/downer-1-1.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-1-main.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+			<a href="images/our-work/downer-1-7.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-7-main.jpg" alt="" class="bordered1 scale-with-grid" /></a>
             <div class="gallery-thumbs">
                 <ul>
                     <li>
                         <a href="images/our-work/downer-1-2.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-2-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                     <li>
-                        <a href="images/our-work/downer-1-3.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-3-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                        <a href="images/our-work/downer-1-6.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-6-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                     <li>
-                        <a href="images/our-work/downer-1-4.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-4-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                        <a href="images/our-work/downer-1-4.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-3-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                     <li>
-                        <a href="images/our-work/downer-1-5.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-5-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
+                        <a href="images/our-work/downer-1-3.jpg" rel="prettyPhoto[pp_gal]" class="prettyPhoto"><img src="images/our-work/downer-1-4-400.jpg" alt="" class="bordered1 scale-with-grid" /></a>
                     </li>
                 </ul>
             </div>
             <div class="content">
-               	<h2>Bathroom and laundry transformation</h2>
+               	<h2>Bathroom and kitchen make-over</h2>
                 <p>The existing bathroom and laundry rooms were each transformed into modern and attractive rooms with the addition of custom made joinery with manufactured stone benchtops. The main bathroom was combined with the WC and a new window installed above the new bath. The rooms were professionally designed with stylish tile and accessory selections chosen to complement each space.</p>
                 <p>The client requested the services of Chapman Built for a second renovation that involved the removal of internal walls and the installation of professionally designed and custom made joinery to the kitchen. Features included vinyl wrapped soft-closing doors and drawers and 40mm stone to the island bench.</p>
             </div>
