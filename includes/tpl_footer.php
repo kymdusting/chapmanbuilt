@@ -11,7 +11,7 @@
                 <img src="images/hia-sml.png" alt="HIA" width="49" height="59" />
                 <img src="images/hia-greensmart.png" alt="HIA Greensmart Professional" width="166" height="53" />
             </div>
-          <div class="columns three">
+          <div class="columns three accreditation">
             <h5>Accreditation</h5>
             <dl>
                 <dt>ACN:</dt><dd>145 503 386</dd>
@@ -19,7 +19,7 @@
                 <dt>ABN:</dt><dd>1814 550 3386</dd>
             </dl>
           </div>
-       	  <div class="columns three">
+       	  <div class="columns three contact">
                 <h5>Contact</h5>
                 <dl>
                     <dt>Call:</dt><dd><a href="tel:0408681941">0408 681 941</a></dd>

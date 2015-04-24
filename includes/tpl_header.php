@@ -68,6 +68,8 @@
     <?php if ($title == 'Testimonials'): ?>
         <link  rel="stylesheet" type="text/css" href="css/quicksand.css" />
     <?php endif ?>
+
+    <script src="http://10.0.0.92:35729/livereload.js?snipver=1"></script>
 </head>
 <body>
 <div class="main_wrapper">
@@ -109,8 +111,6 @@
                         <li><a href="campbell-2.php">Campbell &ndash; Blamey Street</a></li>
                         <li><a href="fisher.php">Fisher &ndash; Bingara Place</a></li>
                         <li><a href="downer.php">Downer &ndash; Padbury Street</a></li>
-                        <li><a href="ngunnawal.php">Ngunnawal &ndash; Carina Street</a></li>
-                        <li><a href="palmerston.php">Palmerston &ndash; Sentry Crescent</a></li>
                         <li><a href="campbell-3.php">Campbell &ndash; Ryrie Street</a></li>
                         <li><a href="majura-park.php">Majura Park &ndash; Shop Fitout</a></li>
                         <li><a href="curtin.php">Curtin &ndash; Macalister Street</a></li>

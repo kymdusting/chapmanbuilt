@@ -11,7 +11,7 @@ include("includes/tpl_header.php"); ?>
         </div>
         <div class="clear"><!-- ClearFix --></div>
 
-        <div class="columns sixteen">
+        <div class="lead columns sixteen">
             <p>Chapman Built provides high quality construction services in the Canberra region. Choose from one of the following areas of expertise to see more details.</p>
             <hr class="alt3" />
         </div>
