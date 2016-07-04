@@ -7,6 +7,20 @@
           </a>
 			</div>
 		</div>
+		<div data-thumb="images/top_slider/home-15.jpg" data-src="images/top_slider/home-15.jpg">
+			<div class="camera_caption caption-right">
+					<a href="services.php">
+	            Award winning kitchen - see our MBA award winning renovation
+	        </a>
+			</div>
+		</div>
+		<div data-thumb="images/top_slider/home-17.jpg" data-src="images/top_slider/home-17.jpg">
+				<div class="camera_caption">
+					<a href="our-work.php">
+	           Heritage transformation - see our extension project in Reid
+	        </a>
+	       </div>
+    </div>
 		<div  data-thumb="images/top_slider/home-13.jpg" data-src="images/top_slider/home-13.jpg">
 			<div class="camera_caption caption-right">
 					<a href="our-work.php/dickson-1.php">
@@ -49,20 +63,6 @@
           </a>
 			</div>
 		</div>
-		<div data-thumb="images/top_slider/home-5.jpg" data-src="images/top_slider/home-5.jpg">
-			<div class="camera_caption caption-right">
-					<a href="services.php">
-	            Kitchen Renovations - we can transform your kitchen into a modern masterpiece. Find out more
-	        </a>
-			</div>
-		</div>
-		<div data-thumb="images/top_slider/home-3.jpg" data-src="images/top_slider/home-3.jpg">
-				<div class="camera_caption">
-					<a href="our-work.php">
-	           Bathroom Renovations – see some of our bathroom projects
-	        </a>
-	       </div>
-    </div>
 		<div  data-thumb="images/top_slider/home-9.jpg" data-src="images/top_slider/home-9.jpg">
 			<div class="camera_caption caption-right">
 					<a href="our-process.php">

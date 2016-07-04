@@ -29,7 +29,7 @@ include("includes/tpl_header.php"); ?>
     <div class="columns four">
     	<h3>Services</h3>
         <a href="services.php"><img src="images/our-work/campbell-1-4-400.jpg" alt="Clean, white kitchen drawers and stainless steal oven." class="bordered1 scale-with-grid" /></a>
-        <p>Chapman Built specialises in residential building in the Canberra area including knock-down-rebuilds, home extensions, and house renovations including kitchens, bathrooms and more.</p>
+        <p>Chapman Built specialises in residential building in the Canberra area including knockdown rebuilds, home extensions, and house renovations.</p>
         <a href="services.php" class="btn_readmore arrow_right">See all our services<span aria-hidden="true" class="ico_arrow">&gt;</span></a>
         <div class="clear"><!-- ClearFix --></div>
 	</div>
@@ -43,7 +43,7 @@ include("includes/tpl_header.php"); ?>
     <div class="columns four highlight">
     	<h3>Contact Us</h3><!--
         <a href="contact-us.php"><img src="images/our-work/campbell-2-3-400.jpg" alt="" class="bordered1 scale-with-grid" /></a> -->
-        <p>Get in touch with Chapman Built to discuss your knock-down rebuild, extension or renovation project.</p>
+        <p>Get in touch with Chapman Built to discuss your knockdown rebuild, extension or renovation project.</p>
         <a href="contact-us.php" class="btn_readmore arrow_right">Get in touch now<span aria-hidden="true" class="ico_arrow">&gt;</span></a>
     	<div class="clear"><!-- ClearFix --></div>
 	</div>

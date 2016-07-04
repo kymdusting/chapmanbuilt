@@ -39,8 +39,18 @@
     </div>
 </div>
 
-    <?php if ($title == "Home") {
-        echo '<script type="text/javascript" src="js/home.min.js"></script>'; ?>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<!-- <script type="text/javascript" src="js/jquery-ui.min.js"></script> -->
+<script type="text/javascript" src="js/jquery.elastislide.js"></script>
+<!-- <script type="text/javascript" src="js/camera.js"></script> -->
+<script type="text/javascript" src="js/camera.min.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/fw_ui.js"></script>
+<script type="text/javascript" src="js/fw_scripts.js"></script>
+
+<?php if ($title == "Home") {?>
 
             <script type="text/javascript">
                 jQuery(function(){
@@ -51,15 +61,7 @@
                     });
                 });
             </script>
-    <?php } else if (substr($title, 0, 8) == "Our Work") {
-        if (substr($title, 0, 9) == "Our Work ") {
-            echo '<script type="text/javascript" src="js/work.min.js"></script>';
-        } else {
-            echo '<script type="text/javascript" src="js/work-home.min.js"></script>';
-        }
-    }  else {
-        echo '<script type="text/javascript" src="js/main.min.js"></script>';
-    } ?>
+<?php } ?>
 
  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>

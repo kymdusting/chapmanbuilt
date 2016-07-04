@@ -126,19 +126,22 @@ gulp.task( 'styles-work', function () {
 
 // Scripts
 gulp.task( 'scripts', function () {
-    return gulp.src( 'src/css/fw_base.css' )
+    return gulp.src( [ 'src/js/vendor/**/*.js', 'src/js/**/*.js' ] )
         .pipe( jshint( '.jshintrc' ) )
         .pipe( jshint.reporter( 'default' ) )
-        // .pipe(concat('main.js'))
-        // .pipe(gulp.dest('app/js'))
-        // .pipe(rename({ suffix: '.min' }))
-        // .pipe(uglify())
-        .pipe( gulp.dest( 'dist/js' ) )
+        // .pipe( concat( 'main.js' ) )
+        // .pipe( gulp.dest( 'dist/js' ) )
+        // .pipe( rename( {
+        //     suffix: '.min'
+        // } ) )
+        // .pipe( uglify() )
         .pipe( livereload( server ) )
+        .pipe( gulp.dest( 'dist/js' ) )
         .pipe( notify( {
             message: 'Scripts task complete'
         } ) );
 } );
+
 
 // Scripts home minifired
 gulp.task( 'scripts-home', function () {
@@ -245,7 +248,8 @@ gulp.task( 'watch', function () {
         gulp.watch( 'src/css/**/*.css', [ 'styles-main', 'styles-home', 'styles-work', 'styles-work-home' ] );
 
         // Watch .js files
-        gulp.watch( 'src/js/**/*.js', [ 'scripts-main', 'scripts-home', 'scripts-work', 'scripts-work-home' ] );
+        gulp.watch( 'src/js/**/*.js', [ 'scripts' ] );
+        gulp.watch( 'src/js/**/*.js', [ 'scripts', 'scripts-main', 'scripts-home', 'scripts-work', 'scripts-work-home' ] );
 
         // Watch image files
         gulp.watch( 'src/images/**/*', [ 'images' ] );

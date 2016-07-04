@@ -50,7 +50,9 @@
         <script type="text/javascript" src="js/ie_fix.js"></script>
     <![endif]-->
 
-    <!-- <script src="http://10.0.0.8:35729/livereload.js?snipver=1"></script>-->
+    <!-- DEV only livereload -->
+<script>(function(){if(window.location.href.substring(7, 11) === 'dev-'){var s = document.createElement('script'),r = document.getElementsByTagName('script')[0];s.src='http://10.0.0.58:35729/livereload.js?snipver=1';r.parentNode.insertBefore(s,r)};}());</script>
+</head>
 </head>
 <body>
 <div class="main_wrapper">
@@ -82,7 +84,7 @@
                 <?php if (substr($title, 0, 8) == "Our Work")
                         echo " class='act'"; ?>>
                     <a href="our-work.php">Our Work</a>
-                    <ul class="sub_menu level1">
+                    <!-- <ul class="sub_menu level1">
                         <li><a href="griffith-1.php">Griffith &ndash; Meehan Gardens</a></li>
                         <li><a href="hackett-1.php">Hackett &ndash; Grayson Street</a></li>
                         <li><a href="dickson-1.php">Dickson &ndash; Hawdon Street </a></li>
@@ -99,7 +101,7 @@
                         <li><a href="garran-1.php">Garran &ndash; Gilmore Crescent</a></li>
                         <li><a href="mawson-1.php">Mawson &ndash; Shackleton Crescent</a></li>
                         <li><a href="yarralumla-1.php">Yarralumla &ndash; Brown Street</a></li>
-                    </ul>
+                    </ul> -->
                 </li>
                 <li class="sep"></li>
                 <li
