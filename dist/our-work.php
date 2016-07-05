@@ -12,7 +12,7 @@ include("includes/tpl_header.php"); ?>
 	<?php include("includes/tpl_filter.php"); ?>
 	<div class="clear"><!-- ClearFix --></div>
 	<ul id="list">
-        <li id="id-17" data-id="id-17" class="work-block cat2 cat3">
+        <li id="id-17" data-id="id-17" class="work-block cat2 cat3 award award-2016">
             <a href="#" data-description>
               <img src="images/our-work/reid-1-1-main.jpg" alt="Heritage extension modern bathroom with exposed concrete." />
               <div class="work-intro">
@@ -47,6 +47,7 @@ include("includes/tpl_header.php"); ?>
                 <p>This 1920’s Canberra cottage was extended and completed overhauled to create a modern and comfortable family home with two difference personalities. The original house was extended with heritage cues including timber double hung windows with custom ‘horned’ sashes, timber floor boards, and timber ceiling features and hanging rails. A new kitchen with Carrara stone benchtops and splashbacks was installed under a partly-removed heritage chimney, suspended with steel supports.</p>
                 <p>The existing home and heritage garage were connected with an industrial inspired Gallery Wing, which features a giant pre-cast concrete wall and matching burnished concrete floor. The wall splits the space into a main bedroom quarters and an art gallery. Carefully aligned bulkheads and stepped ceilings are covered by a complex roof and hidden gutter system. A 3.3 metre long, custom designed and custom made sliding door splits the bedroom from the gallery. The luxurious ensuite features a freestanding bath, with custom joinery and floor to ceiling concrete-inspired tiles. The pre-cast wall is not only a talking point, but creates a special art hanging space, as well as providing valuable thermal mass for comfortable living.</p>
                 <p>The project involved the use of a diverse range of materials and construction methods which completely transformed the layout of the original home whilst maintaining its heritage character.</p>
+								<p class="award award-2016">This project was awarded the Judge's Commendation of the 2016 MBA ACT &amp; CBUS Awards, Best Remodelling Project more than $450,000.</p>
               </div>
             </div>
         </li>

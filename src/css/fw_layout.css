@@ -731,11 +731,15 @@ img.award {
 	background: transparent url(../images/our-work/award.png) no-repeat 0 50%;
 	background-size: 20%;
 }
-.award-2015 .work-intro-inner, .award-2015 .work-intro-alt .work-intro-inner {
+.award-2015 .work-intro-inner, .award-2015 .work-intro-alt .work-intro-inner,
+.award-2016 .work-intro-inner, .award-2016 .work-intro-alt .work-intro-inner {
 	background-size: 16%;
 }
 .mod-gallery .work-content p.award-2015, .award-2015 .work-intro-inner, .award-2015 .work-intro-alt .work-intro-inner {
 	background-image: url(../images/our-work/award-2015.png);
+}
+.mod-gallery .work-content p.award-2016, .award-2016 .work-intro-inner, .award-2016 .work-intro-alt .work-intro-inner {
+	background-image: url(../images/our-work/award-2016.png);
 }
 .container .image-grid .five.columns {
 	width: 300px;

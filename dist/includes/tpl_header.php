@@ -51,7 +51,7 @@
     <![endif]-->
 
     <!-- DEV only livereload -->
-<script>(function(){if(window.location.href.substring(7, 11) === 'dev-'){var s = document.createElement('script'),r = document.getElementsByTagName('script')[0];s.src='http://10.0.0.58:35729/livereload.js?snipver=1';r.parentNode.insertBefore(s,r)};}());</script>
+<!-- <script>(function(){if(window.location.href.substring(7, 11) === 'dev-'){var s = document.createElement('script'),r = document.getElementsByTagName('script')[0];s.src='http://10.0.0.57:35729/livereload.js?snipver=1';r.parentNode.insertBefore(s,r)};}());</script> -->
 </head>
 </head>
 <body>
